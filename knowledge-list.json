@@ -1,0 +1,88 @@
+{
+    "0": {
+        "primary": [
+            "Sé programar en Python"
+        ],
+        "secondary": []
+    },
+    "1": {
+        "primary": [
+            "Conozco y sé utilizar la librería Numpy",
+            "Conozco y sé utilizar la librería Pandas",
+            "Tengo conocimientos de estadística descriptiva",
+            "Tengo conocimientos de estadística inferencial",
+            "Sé cómo aplicar una metodología de procesamiento de datos",
+            "Conozco y sé utilizar la librería matplotlib"
+        ],
+        "secondary": [
+            "Tengo conocimientos en visualización de datos",
+            "Conozco y sé utilizar la librería seaborn",
+            "Conozco y sé utilizar la herramienta Plotly"
+        ]
+    },
+    "2": {
+        "primary": [
+            "Conozco los fundamentos de machine learning y en qué consiste",
+            "Conozco y sé utilizar la librería Scikit-learn",
+            "Sé cómo crear y trabajar con modelos de clasificación y regresión",
+            "Sé cómo crear y trabajar con modelos de agrupamiento"
+        ],
+        "secondary": [
+            "Conozco y sé aplicar diferentes métricas de desempeño",
+            "Sé cómo hacer una reducción de la dimensionalidad y en qué casos se debe aplicar",
+            "Sé cómo afinar modelos mediante la exploración de hiperparámetros"
+        ]
+    },
+    "3": {
+        "primary": [
+            "Conozco tecnologías Big Data para almacenar y procesar grandes volúmenes de datos (Big Data)",
+            "Sé cuándo se requiere utilizar una tecnología Big Data",
+            "Conozco cuándo utilizar una base de datos relacional o cuando usar una base de datos no relacional (NoSQL)",
+            "Conozco cómo interactuar desde Python con una base de datos NoSQL",
+            "Conozco los fundamentos para realizar el procesamiento de grandes volúmenes de datos de forma distribuida"
+        ],
+        "secondary": [
+            "Manejo los conceptos básicos de bases de datos relacionales y puedo realizar consultas en SQL",
+            "Conozco los conceptos básicos de bases de datos NoSQL"
+        ]
+    },
+    "4": {
+        "primary": [
+            "Sé cómo hacer procesamiento de lenguaje natural de forma automática usando Python",
+            "Sé cómo hacer operaciones con cadenas de texto",
+            "Puedo trabajar con expresiones regulares",
+            "Sé utilizar embeddings en el contexto de NLP",
+            "Sé cómo hacer un proceso de clasificación y agrupamiento de textos",
+            "Sé cómo utilizar machine learning para realizar análisis supervisado y no supervisado de texto"
+        ],
+        "secondary": [
+            "Sé cómo obtener textos de diferentes fuentes como PDFs, imágenes, audios y páginas web"
+        ]
+    },
+    "5": {
+        "primary": [
+            "Conozco los fundamentos de deep learning",
+            "Conozco y sé crear modelos con Tensorflow",
+            "Conozco y sé crear modelos con Keras",
+            "Sé cómo funciona un autoencoder"
+        ],
+        "secondary": [
+            "Sé qué son las capas convoluciones y en qué casos utilizarlas",
+            "Sé cómo clasificar de imágenes con modelos de Deep Learning",
+            "Sé cómo clasificar textos con modelos de Deep Learning"
+        ]
+    },
+    "6":
+    {
+        "primary": [
+            "Conozco varias metodologías para procesamiento de datos y machine learning como KDD, Semma, Crisp-dm",
+            "Sé cómo hacer versionamiento de código",
+            "Sé cómo hacer versionamiento de datos",
+            "Sé cómo evaluar un modelo",
+            "Sé como hacer seguimiento de un modelo en producción"
+        ],
+        "secondary": [
+            "Sé diferentes formas de cómo desplegar modelos de machine learning"
+        ]
+    }
+}
