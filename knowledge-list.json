@@ -3,7 +3,9 @@
         "primary": [
             "Sé programar en Python"
         ],
-        "secondary": []
+        "secondary": [],
+        "line": "Introducción a la Programación con Python",
+        "name": "Introducción a la Programación con Python"
     },
     "1": {
         "primary": [
@@ -18,7 +20,9 @@
             "Tengo conocimientos en visualización de datos",
             "Conozco y sé utilizar la librería seaborn",
             "Conozco y sé utilizar la herramienta Plotly"
-        ]
+        ],
+        "line": "MLDS - Línea Básica",
+        "name": "Análisis y Visualización de Datos con Python"
     },
     "2": {
         "primary": [
@@ -31,7 +35,9 @@
             "Conozco y sé aplicar diferentes métricas de desempeño",
             "Sé cómo hacer una reducción de la dimensionalidad y en qué casos se debe aplicar",
             "Sé cómo afinar modelos mediante la exploración de hiperparámetros"
-        ]
+        ],
+        "line": "MLDS - Línea Básica",
+        "name": "Introducción a Machine Learning con Python"
     },
     "3": {
         "primary": [
@@ -44,7 +50,9 @@
         "secondary": [
             "Manejo los conceptos básicos de bases de datos relacionales y puedo realizar consultas en SQL",
             "Conozco los conceptos básicos de bases de datos NoSQL"
-        ]
+        ],
+        "line": "MLDS - Línea Básica",
+        "name": "Big Data"
     },
     "4": {
         "primary": [
@@ -57,7 +65,9 @@
         ],
         "secondary": [
             "Sé cómo obtener textos de diferentes fuentes como PDFs, imágenes, audios y páginas web"
-        ]
+        ],
+        "line": "MLDS - Línea Avanzada",
+        "name": "Procesamiento y Entendimiento del Lenguaje Natural"
     },
     "5": {
         "primary": [
@@ -70,7 +80,10 @@
             "Sé qué son las capas convoluciones y en qué casos utilizarlas",
             "Sé cómo clasificar de imágenes con modelos de Deep Learning",
             "Sé cómo clasificar textos con modelos de Deep Learning"
-        ]
+        ],
+        "line": "MLDS - Línea Avanzada",
+        "name": "Deep Learning - Introducción al Aprendizaje Profundo con Python"
+        
     },
     "6":
     {
@@ -83,6 +96,8 @@
         ],
         "secondary": [
             "Sé diferentes formas de cómo desplegar modelos de machine learning"
-        ]
+        ],
+        "line": "MLDS - Línea Avanzada",
+        "name": "Metodologías Ágiles para el Desarrollo de Aplicaciones con Machine Learning"
     }
 }
