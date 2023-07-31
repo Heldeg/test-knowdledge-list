@@ -4,7 +4,7 @@
             "Sé programar en Python"
         ],
         "secondary": [],
-        "line": "Introducción a la Programación con Python",
+        "line": "introducción a la Programación",
         "name": "Introducción a la Programación con Python"
     },
     "1": {
@@ -21,7 +21,7 @@
             "Conozco y sé utilizar la librería seaborn",
             "Conozco y sé utilizar la herramienta Plotly"
         ],
-        "line": "MLDS - Línea Básica",
+        "line": "básica",
         "name": "Análisis y Visualización de Datos con Python"
     },
     "2": {
@@ -36,7 +36,7 @@
             "Sé cómo hacer una reducción de la dimensionalidad y en qué casos se debe aplicar",
             "Sé cómo afinar modelos mediante la exploración de hiperparámetros"
         ],
-        "line": "MLDS - Línea Básica",
+        "line": "básica",
         "name": "Introducción a Machine Learning con Python"
     },
     "3": {
@@ -51,7 +51,7 @@
             "Manejo los conceptos básicos de bases de datos relacionales y puedo realizar consultas en SQL",
             "Conozco los conceptos básicos de bases de datos NoSQL"
         ],
-        "line": "MLDS - Línea Básica",
+        "line": "básica",
         "name": "Big Data"
     },
     "4": {
@@ -66,7 +66,7 @@
         "secondary": [
             "Sé cómo obtener textos de diferentes fuentes como PDFs, imágenes, audios y páginas web"
         ],
-        "line": "MLDS - Línea Avanzada",
+        "line": "avanzada",
         "name": "Procesamiento y Entendimiento del Lenguaje Natural"
     },
     "5": {
@@ -81,7 +81,7 @@
             "Sé cómo clasificar de imágenes con modelos de Deep Learning",
             "Sé cómo clasificar textos con modelos de Deep Learning"
         ],
-        "line": "MLDS - Línea Avanzada",
+        "line": "avanzada",
         "name": "Deep Learning - Introducción al Aprendizaje Profundo con Python"
         
     },
@@ -97,7 +97,7 @@
         "secondary": [
             "Sé diferentes formas de cómo desplegar modelos de machine learning"
         ],
-        "line": "MLDS - Línea Avanzada",
+        "line": "avanzada",
         "name": "Metodologías Ágiles para el Desarrollo de Aplicaciones con Machine Learning"
     }
 }
